@@ -1,0 +1,9 @@
+body { font-family: 'Segoe UI', sans-serif; margin:0; padding:0; }
+header { background:#333; color:#fff; display:flex; justify-content:space-between; padding:10px 20px; }
+header nav a { color:#fff; margin:0 10px; text-decoration:none; }
+header nav a:hover { text-decoration:underline; }
+
+.hero { text-align:center; padding:100px 20px; background:#f4f4f4; }
+button { padding:10px 20px; background:#ff6600; border:none; color:#fff; cursor:pointer; transition:0.3s; }
+button:hover { background:#e55b00; }
+footer { text-align:center; padding:20px; background:#333; color:#fff; margin-top:20px; }
